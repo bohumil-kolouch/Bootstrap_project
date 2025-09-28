@@ -1,0 +1,17 @@
+.arrow-img {
+             margin-top: -50px; /* adjust this value to raise or lower */
+            }
+            html {
+            scroll-behavior: smooth;
+            }
+            .custom-navbar {
+            height: 70px;               /* adjust for taller navbar */
+            align-items: center;        /* vertically center nav links */
+            }
+            .custom-navbar .nav-link {
+            font-size: 1.25rem;         /* increase font size (20px) */
+            line-height: 1.5;
+            }
+            .footer{
+            background-color: #d3d5d5c9;
+            }
